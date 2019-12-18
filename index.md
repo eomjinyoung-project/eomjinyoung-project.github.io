@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## '엄진영의 개인 프로젝트'에 오신 걸 환영합니다.
+
+이 페이지는 엄진영의 개인 프로젝트를 소개하는 페이지입니다.
 
 You can use the [editor on GitHub](https://github.com/eomjinyoung-project/eomjinyoung-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
